@@ -27,12 +27,12 @@ int main(void)
 			free(line);
 			exit(EXIT_SUCCESS);
 		}
-
 		num_arg = arg_count(line);
-
 		if (line[0] != '\n' && num_arg > 0)
 		{
 			arg_tokens = tokenize(line, " \t", num_arg);
+			if (arg_tokens[0] == NULL)
+				continue;
 			exec_flag = execbuiltin_cmd(arg_tokens, line);
 
 			if (!exec_flag)
