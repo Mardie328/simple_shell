@@ -1,8 +1,13 @@
 
 
+
+
 # SIMPLE SHELL PROJECT
 
-## Table of Contents
+![Neutral Creative Professional LinkedIn Article Cover Image](https://github.com/Mardie328/simple_shell/assets/92341910/c90e9c7e-fd1a-4fb1-88e5-2f0db3a4ef31)
+
+
+## Table of Contents 📑
 * [Description](#description)
 * [Features](#features)
 * [Getting Started](#getting-started)
@@ -10,14 +15,15 @@
 * [Commands](#commands)
 * [Authors](#authors)
 
-## Description
+## Description ✨
 The Simple Shell Project is an _ALX Software Engineering Program_ project that involves building a customized simple [shell](https://en.wikipedia.org/wiki/Shell_(computing)). It was built using C programming language. The shell prompts users to input commands, parses these commands, delivers it to the system for execution, and shows the corresponding output in your command terminal.  
 
 This project was compiled on `Ubuntu 20.04 LTS` using `gcc`, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`.
 
-## Features
+## Features 📚
 
-## Getting Started
+
+## Getting Started 🚀
 
 1. Clone [this repository](https://github.com/Mardie328/simple_shell) using:  
     for HTTPS,  
@@ -48,7 +54,7 @@ This project was compiled on `Ubuntu 20.04 LTS` using `gcc`, using the options `
 
   
 
-## Usage
+## Usage 🛠️
 Your shell should work like this in an interactive mode:
 ```
 $ ./hsh
@@ -74,9 +80,9 @@ hsh main.c shell.c test_ls_2
 $
 ```
 
-## Commands
+## Commands 📋
 
-## Authors
+## Authors 👥
 * **Taofeek Mardiyyah A.**
    * [Email](taofeekmardiyyah@gmail.com)
    * [Twitter](https://twitter.com/TechieHijabie)
